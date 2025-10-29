@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🎓 About Me
 
-I'm a Junior currently pursuing a Bachelor of Science in Computer Science at the [University of Georgia](https://www.uga.edu/) (Expected graduation: July 2027). With experience across back-end, machine learning, artificial intelligence, and software development, I enjoy building impactful solutions that bridge technology with real-world problems.
+I'm a Junior currently pursuing a Bachelor of Science in Computer Science and a Master's of Artificial Intelligence at the [University of Georgia](https://www.uga.edu/) (Expected graduation: May 2027). With experience across back-end, machine learning, artificial intelligence, and software development, I enjoy building impactful solutions that bridge technology with real-world problems.
 
 ## 🏆 Achievements & Awards
 
