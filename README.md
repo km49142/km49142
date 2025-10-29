@@ -31,7 +31,7 @@ I'm a Junior currently pursuing a Bachelor of Science in Computer Science at the
 ## 👥 Leadership
 
 - President, UGA Hindu YUVA
-- Team Lead, [Kappa Theta Phi](https://ktpgeorgia.com/) (Site Backend Team)
+- Backend Committee Lead + KRONOS Server Chair, [Kappa Theta Phi](https://ktpgeorgia.com/)
 - Technical Lead, 501c3 Non-Profit (Los Angeles & Georgia)
 
 ## 📚 Coursework
