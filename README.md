@@ -19,7 +19,7 @@ I'm a Junior currently pursuing a Bachelor of Science in Computer Science and a 
 ## 💼 Professional Experience
 
 - **Tech Team Developer, [UGAHacks](https://ugahacks.com/)** — Developed and maintained the UGAHacks 11 website and registration system, delivered technical crash courses, and collaborated across teams.
-- **Software Engineer, AI@UGA** — Built a RAG-based student assistant platform and contributed to modular backend development.
+- **Software Engineer, [AI@UGA](https://www.aiatuga.com/)** — Built a RAG-based student assistant platform and contributed to modular backend development.
 - **Senior Engineer, [CREATE Labs UGA](https://create.uga.edu/)** — Led cross-functional software teams, developed embedded and web solutions, and managed mobile app development.
 - **Code Sensei, Code Ninjas LLC** — Taught over 20 students programming concepts from Scratch to C++ and Unity, significantly increasing course completion rates.
 - **General Instructor, Kumon Institute of Education** — Tutored students in mathematics and English, managed curricula, and collaborated with staff and parents.
