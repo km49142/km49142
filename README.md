@@ -1,13 +1,15 @@
 # Krishna Mohan
 
-AI Systems Engineer • Prompt Infrastructure Researcher • Incoming Director of Technology @ UGAHacks XII  
-BS Computer Science / MS Artificial Intelligence — University of Georgia (May 2027)
+AI Systems Engineer • Prompt Infrastructure Researcher • Incoming Director of Technology @ [UGAHacks XII](https://ugahacks.com/)  
+BS Computer Science / MS Artificial Intelligence — [University of Georgia](https://www.uga.edu/) (May 2027)
 
 ---
 
 ## 🚀 Featured Work
 
-### 🔹 Alavon — Prompt Engineering Social Platform (Founder & Technical Lead)
+### 🔹 [Alavon — Prompt Engineering Social Platform](https://github.com/km49142)
+Founder & Technical Lead  
+
 A scalable prompt-sharing ecosystem treating prompts as version-controlled engineering artifacts.
 
 - Architected FastAPI backend deployed on AWS
@@ -21,17 +23,19 @@ A scalable prompt-sharing ecosystem treating prompts as version-controlled engin
 
 ---
 
-### 🔹 ASL Quick Draw — Clemson Hacks Winner
+### 🔹 [ASL Quick Draw — Clemson Hacks Winner](https://devpost.com/software/asl-quick-draw?_gl=1*1vhmhme*_gcl_au*MTIxNzMwMjg3LjE3NzA1MTc4MDA.*_ga*MTY4OTI5MDgxNi4xNzcwNTE3ODAx*_ga_0YHJK3Y10M*czE3NzI1Njk1MDQkbzEwJGcxJHQxNzcyNTY5NTA2JGo1OCRsMCRoMA..)
+
 Real-time American Sign Language recognition system.
 
 - Built computer vision inference pipeline
 - Applied deep learning classification models
-- Designed for accessibility-focused communication tools
+- Designed accessibility-focused communication tooling
 - Awarded hackathon victory for technical innovation
 
 ---
 
-### 🔹 Banjovi — UGAHacks X First Prize (Hardware Category)
+### 🔹 [Banjovi — UGAHacks X First Prize (Hardware Category)](https://devpost.com/software/banjovi-by-the-4-idiots?_gl=1*azcczl*_gcl_au*MTM2OTY2NTc3OS4xNzU2NzQ3Mzg2*_ga*ODI5ODEzNzM0LjE3NTY3NDczODY.*_ga_0YHJK3Y10M*czE3NTg4Mjg1NTIkbzUkZzEkdDE3NTg4Mjg1NTQkajU4JGwwJGgw)
+
 Retro-style embedded musical instrument.
 
 - Integrated analog inputs + Mozzi-based C++ audio encoding
@@ -41,6 +45,7 @@ Retro-style embedded musical instrument.
 ---
 
 ### 🔹 Ghostwriter — AI Mental Health Assistant
+
 Privacy-first emotional support system.
 
 - Integrated Anthropic Claude Sonnet API
@@ -52,7 +57,7 @@ Privacy-first emotional support system.
 
 ## 🔬 Founder — LLM Labs
 
-Founded LLM Labs to explore scalable infrastructure for:
+Founded **LLM Labs** to explore scalable infrastructure for:
 
 - Prompt engineering as maintainable “promptware”
 - Retrieval-Augmented Generation (RAG)
@@ -61,7 +66,8 @@ Founded LLM Labs to explore scalable infrastructure for:
 - Agentic multi-step orchestration systems
 
 Research direction bridges:
-> prompt engineering × backend systems × reliability × scalable AI infrastructure
+
+> Prompt engineering × Backend systems × Reliability × Scalable AI infrastructure
 
 ---
 
@@ -93,19 +99,19 @@ Research direction bridges:
 
 ## 🎓 Education
 
-University of Georgia  
+[University of Georgia](https://www.uga.edu/)  
 BS Computer Science / MS Artificial Intelligence  
 Expected Graduation: May 2027
 
-Relevant Coursework:
+Relevant Coursework:  
 Systems Programming • Software Engineering • Data Structures • Computer Architecture • Biomedical Image Analysis • Data Science • Theory of Computing • Discrete Mathematics • Computational Science
 
 ---
 
 ## 🏆 Awards
 
-- 🥇 UGAHacks X First Prize — Hardware Category
-- 🥇 Clemson Hacks Winner — ASL Quick Draw
+- 🥇 [UGAHacks X First Prize — Hardware Category](https://devpost.com/software/banjovi-by-the-4-idiots?_gl=1*azcczl*_gcl_au*MTM2OTY2NTc3OS4xNzU2NzQ3Mzg2*_ga*ODI5ODEzNzM0LjE3NTY3NDczODY.*_ga_0YHJK3Y10M*czE3NTg4Mjg1NTIkbzUkZzEkdDE3NTg4Mjg1NTQkajU4JGwwJGgw)
+- 🥇 [Clemson Hacks Winner — ASL Quick Draw](https://devpost.com/software/asl-quick-draw?_gl=1*1vhmhme*_gcl_au*MTIxNzMwMjg3LjE3NzA1MTc4MDA.*_ga*MTY4OTI5MDgxNi4xNzcwNTE3ODAx*_ga_0YHJK3Y10M*czE3NzI1Njk1MDQkbzEwJGcxJHQxNzcyNTY5NTA2JGo1OCRsMCRoMA..)
 - MTA Software Development Fundamentals (Certified 08/2023)
 - AI For Everyone (Certified 06/2024)
 - Introduction to Generative AI (Certified 06/2024)
@@ -115,12 +121,12 @@ Systems Programming • Software Engineering • Data Structures • Computer Ar
 
 ## 👥 Leadership
 
-- **Incoming Director of Technology — UGAHacks XII**
+- **Incoming Director of Technology — [UGAHacks XII](https://ugahacks.com/)**
   - Overseeing full technical infrastructure for UGA’s flagship hackathon
   - Leading architecture, deployment strategy, and engineering operations
 
 - Founder — LLM Labs
-- Backend Committee Lead + KRONOS Server Chair — Kappa Theta Phi
+- Backend Committee Lead + KRONOS Server Chair — [Kappa Theta Phi](https://ktpgeorgia.com/)
 - President — UGA Hindu YUVA
 - Technical Lead — 501c3 Non-Profit
 
@@ -148,5 +154,5 @@ Build scalable AI systems that:
 
 ## 🌐 Connect
 
-LinkedIn: https://www.linkedin.com/in/krishmo118/  
-GitHub: https://github.com/km49142
+[LinkedIn](https://www.linkedin.com/in/krishmo118/)  
+[GitHub](https://github.com/km49142)
