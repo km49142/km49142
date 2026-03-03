@@ -32,11 +32,12 @@ I'm a Junior currently pursuing a Bachelor of Science in Computer Science and a 
 
 ## 👥 Leadership
 
-- President, UGA Hindu YUVA  
-- Backend Committee Lead + KRONOS Server Chair, [Kappa Theta Phi](https://ktpgeorgia.com/)  
-- Technical Lead, 501c3 Non-Profit (Los Angeles & Georgia)  
 - **Founder, LLM Labs**  
 - **Leader, Alavon Prompt Sharing Project**
+- **Incoming Director of Technology, UGAHacks XII** — Overseeing full technical infrastructure for UGA’s flagship hackathon, including platform architecture, deployment strategy, engineering team leadership, and cross-functional technical execution.
+- Backend Committee Lead + KRONOS Server Chair, [Kappa Theta Phi](https://ktpgeorgia.com/)  
+- Former President, UGA Hindu YUVA  
+- Technical Lead, 501c3 Non-Profit (Los Angeles & Georgia)  
 
 ## 📚 Coursework
 
