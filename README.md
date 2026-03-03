@@ -9,6 +9,8 @@ I'm a Junior currently pursuing a Bachelor of Science in Computer Science and a 
 ## 🏆 Achievements & Awards
 
 - [**UGAHacks X First Prize** (Hardware Category)](https://devpost.com/software/banjovi-by-the-4-idiots?_gl=1*azcczl*_gcl_au*MTM2OTY2NTc3OS4xNzU2NzQ3Mzg2*_ga*ODI5ODEzNzM0LjE3NTY3NDczODY.*_ga_0YHJK3Y10M*czE3NTg4Mjg1NTIkbzUkZzEkdDE3NTg4Mjg1NTQkajU4JGwwJGgw) — Recognized for innovative design, usability, and technical prowess.
+- [**Clemson Hacks Winner — ASL Quick Draw**](https://devpost.com/software/asl-quick-draw?_gl=1*1vhmhme*_gcl_au*MTIxNzMwMjg3LjE3NzA1MTc4MDA.*_ga*MTY4OTI5MDgxNi4xNzcwNTE3ODAx*_ga_0YHJK3Y10M*czE3NzI1Njk1MDQkbzEwJGcxJHQxNzcyNTY5NTA2JGo1OCRsMCRoMA..) — Developed a real-time American Sign Language recognition system leveraging computer vision and deep learning to promote accessible communication technologies.
+
 - **MTA Software Development Fundamentals** — Certified in essential software development skills (08/2023).
 - **AI For Everyone** — Certified in foundational AI concepts, including machine learning and deep learning (06/2024).
 - **Introduction to Generative AI** — Certified in the application of large language models (06/2024).
