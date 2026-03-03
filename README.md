@@ -30,9 +30,11 @@ I'm a Junior currently pursuing a Bachelor of Science in Computer Science and a 
 
 ## 👥 Leadership
 
-- President, UGA Hindu YUVA
-- Backend Committee Lead + KRONOS Server Chair, [Kappa Theta Phi](https://ktpgeorgia.com/)
-- Technical Lead, 501c3 Non-Profit (Los Angeles & Georgia)
+- President, UGA Hindu YUVA  
+- Backend Committee Lead + KRONOS Server Chair, [Kappa Theta Phi](https://ktpgeorgia.com/)  
+- Technical Lead, 501c3 Non-Profit (Los Angeles & Georgia)  
+- **Founder, LLM Labs**  
+- **Leader, Alavon Prompt Sharing Project**
 
 ## 📚 Coursework
 
@@ -46,3 +48,108 @@ Systems Programming • Software Engineering • Data Structures • Computer Ar
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/krishmo118/)
+
+---
+
+# 🔬 Research & Innovation
+
+## 🚀 Founder — LLM Labs
+
+I’m the **Founder of LLM Labs**, an initiative focused on building and studying real-world systems around:
+
+- Prompt engineering + prompt lifecycle tooling  
+- Retrieval-Augmented Generation (RAG)  
+- Human–AI interaction workflows  
+- LLM evaluation and reproducibility  
+- AI infrastructure and deployment design
+
+**Current focus areas**
+- Prompt lifecycle management (versioning, forking, benchmarking)
+- Embedding-based semantic retrieval systems
+- Agentic AI orchestration pipelines
+- Infrastructure for scalable LLM-backed products
+
+---
+
+## 🧠 Leader — Alavon (Prompt-Sharing Social Platform)
+
+**Role:** Project Leader & Systems Architect  
+**Affiliations:** School of Computing, University of Georgia • Alavon • LLM Labs  
+
+**Alavon** is a prompt-sharing platform designed to treat prompts as:
+- reusable artifacts  
+- evaluatable components  
+- version-controlled engineering objects
+
+### 📌 Key Work I Lead
+- Platform architecture and engineering roadmap
+- Fork-based prompt versioning and prompt lineage design
+- FastAPI backend + AWS deployment
+- JWT authentication flows
+- PostgreSQL schema design for social prompt graphs
+- Semantic search roadmap (embedding-based discoverability)
+- Alpha testing workflow design and experiment structure
+- Multimodal prompt representation roadmap
+
+### 🔎 Research Direction
+Alavon explores:
+- Prompt reproducibility and reuse
+- Collaborative prompt iteration
+- Execution tracking + evaluation metadata
+- Cross-model prompt performance benchmarking
+- Promptware engineering practices (testing, regression checks, evolution)
+
+---
+
+# 🤝 Partnerships & Ecosystem
+
+## 🧠 Collaboration with Genius Group AI Education
+
+In alignment with the Genius Group’s global AI education mission — including expansion of AI-powered learning and tools to enable scalable AI literacy and development — I engage in collaborative efforts and knowledge exchange with programs focused on AI education, application, and early-stage ecosystem support. The Genius Group is a leading global edtech & entrepreneur community scaling AI learning initiatives and tools for students, founders, and technologists.:contentReference[oaicite:1]{index=1}
+
+---
+
+# 📊 Technical Focus Areas
+
+### 🧠 Prompt Engineering Research
+- Structured reasoning scaffolds and templates
+- Prompt robustness testing and evaluation workflows
+- Iteration-driven improvement using community reuse and forks
+
+### ⚙️ Backend & Infrastructure
+- FastAPI microservices and REST API design
+- PostgreSQL schema design and indexing strategies
+- Scalable deployment on AWS
+- Logging/telemetry primitives for prompt evaluation
+
+### 🔐 AI + Security (Growing Focus)
+- Reliability and misuse-resistant AI workflows
+- Studying real-world failure modes in prompt-driven systems
+- Secure-by-design patterns for LLM-backed applications
+
+---
+
+# 🧪 Ongoing Research Themes
+
+- Prompts as maintainable engineering components (“promptware”)
+- Embedding-based semantic similarity search for prompt discovery
+- Cross-model evaluation and benchmarking
+- Agentic multi-step pipelines and orchestration
+- Execution metadata logging for prompt ranking/scoring
+
+---
+
+# 📈 Publications & Academic Work (In Progress)
+
+- **Alavon — A Prompt-Sharing Social Platform for Structured Prompt Engineering** (Feb 2026)  
+  Topics: promptware engineering • collaborative prompt systems • semantic retrieval • multimodal prompts • prompt lifecycle tracking
+
+---
+
+# 🌍 Vision
+
+Build scalable AI systems that:
+- improve reliability and reproducibility  
+- reduce duplicated prompt effort  
+- bridge academic research with production engineering  
+- enable collaborative development of high-quality prompts
