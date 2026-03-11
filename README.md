@@ -102,7 +102,7 @@ Research direction bridges:
 
 [University of Georgia](https://www.uga.edu/)  
 BS Computer Science / MS Artificial Intelligence  
-Expected Graduation: May 2027
+Expected Graduation: May 2026
 
 Relevant Coursework:  
 Systems Programming • Software Engineering • Data Structures • Computer Architecture • Biomedical Image Analysis • Data Science • Theory of Computing • Discrete Mathematics • Computational Science
