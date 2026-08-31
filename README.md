@@ -3,7 +3,6 @@
 AI Systems Engineer • Prompt Infrastructure Researcher • Incoming Director of Technology @ [UGAHacks XII](https://ugahacks.com/)  
 BS Computer Science / MS Artificial Intelligence — [University of Georgia](https://www.uga.edu/) (May 2026)
 
-📄 **Resume:** [Download Resume (PDF)](https://raw.githubusercontent.com/km49142/km49142/main/Krishna%20Mohan%20-%20AI.pdf)
 ---
 
 ## 🚀 Featured Work
